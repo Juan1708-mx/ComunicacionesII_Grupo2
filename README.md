@@ -1,11 +1,10 @@
 # Mayor tasa de datos con la misma tasa de símbolos: QPSK vs 16QAM con AWGN en GNU Radio
 
 **Comunicaciones II (27145) · Proyecto Integrador 2026 · Grupo 2**
+
 **Escenario:** S4 — Mayor tasa de datos con una tasa de símbolos similar
 
 **Repositorio:** https://github.com/Juan1708-mx/ComunicacionesII_Grupo2
-**Video de socialización:** _pendiente_
-
 ## Integrantes
 
 - David Santiago Arias Avila
