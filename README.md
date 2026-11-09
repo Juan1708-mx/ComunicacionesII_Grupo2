@@ -99,7 +99,7 @@ ComunicacionesII_Grupo2/
 │   └── capturas_originales/                # 16 capturas de simulación
 ├── data/tablas_de_pruebas/                 # tabla y análisis de pruebas
 ├── docs/
-│   ├── informe_final.pdf
+│   ├── Informe_final.pdf
 │   ├── ficha_decision_tecnica.pdf
 │   └── bitacora.md
 └── referencias/fuentes_y_enlaces.md
