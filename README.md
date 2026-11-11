@@ -5,6 +5,7 @@
 **Escenario:** S4 — Mayor tasa de datos con una tasa de símbolos similar
 
 **Repositorio:** https://github.com/Juan1708-mx/ComunicacionesII_Grupo2
+
 ## Integrantes
 
 - David Santiago Arias Avila
@@ -102,7 +103,12 @@ ComunicacionesII_Grupo2/
 │   ├── Informe_final.pdf
 │   ├── ficha_decision_tecnica.pdf
 │   └── bitacora.md
-└── referencias/fuentes_y_enlaces.md
+├── referencias/fuentes_y_enlaces.md
+└── Fase2/                                  # Fase 2: Tx con RRC y receptor
+    ├── grc/                                # GRC QPSK y 16QAM con receptor
+    ├── figuras/  capturas/                 # figuras del informe y 34 capturas
+    ├── Informe_fase_2.pdf
+    └── README.md
 ```
 
 ## Fase 2: transmisor con RRC y receptor
@@ -124,6 +130,7 @@ Se usó Claude (Anthropic) como herramienta de apoyo para:
 
 - Generar con código las imágenes del escenario (Figuras 1 y 2).
 - Revisar la configuración de los GRC y verificar cálculos (normalización de las constelaciones y SNR).
+- Armar los flujogramas de la Fase 2 a partir de los de la Fase 1 y verificar los cálculos del receptor.
 - Apoyar la redacción y la organización de los documentos del repositorio.
 
 La simulación, las pruebas y las capturas las realizó el grupo en GNU Radio. Todo el contenido fue revisado y validado por los integrantes.
@@ -133,4 +140,4 @@ La simulación, las pruebas y las capturas las realizó el grupo en GNU Radio. T
 Ver [`referencias/fuentes_y_enlaces.md`](referencias/fuentes_y_enlaces.md).
 
 ---
-_Última actualización: 9 de noviembre de 2026_
+_Última actualización: 11 de noviembre de 2026_
