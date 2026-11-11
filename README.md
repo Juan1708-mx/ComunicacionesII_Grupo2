@@ -105,6 +105,19 @@ ComunicacionesII_Grupo2/
 └── referencias/fuentes_y_enlaces.md
 ```
 
+## Fase 2: transmisor con RRC y receptor
+
+Flujogramas con conformación RRC (β = 0.35) y receptor diseñado por el grupo: filtro acoplado, diagrama de ojo, muestreo (Keep M in N) y decisión (Constellation Decoder). Sin ruido ambos sistemas recuperan el 100 % de los símbolos; con ruido, la SER medida coincide con la teórica.
+
+| Prueba | noise_amp | SNR tras filtro acoplado | SER QPSK | SER 16QAM |
+|---|---|---|---|---|
+| A | 0 | ∞ | 0 | 0 |
+| B | 0.35 | 18.1 dB | 0 | 5.0×10⁻⁴ |
+| C | 0.70 | 12.1 dB | 1.0×10⁻⁴ | 0.103 |
+| D | 1.00 | 9.0 dB | 4.7×10⁻³ | 0.282 |
+
+Detalle en [`Fase2/README.md`](Fase2/README.md) e informe en [`Fase2/Informe_fase_2.pdf`](Fase2/Informe_fase_2.pdf).
+
 ## Uso de IA
 
 Se usó Claude (Anthropic) como herramienta de apoyo para:
