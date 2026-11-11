@@ -129,8 +129,7 @@ Detalle en [`Fase2/README.md`](Fase2/README.md) e informe en [`Fase2/Informe_fas
 Se usó Claude (Anthropic) como herramienta de apoyo para:
 
 - Generar con código las imágenes del escenario (Figuras 1 y 2).
-- Revisar la configuración de los GRC y verificar cálculos (normalización de las constelaciones y SNR).
-- Armar los flujogramas de la Fase 2 a partir de los de la Fase 1 y verificar los cálculos del receptor.
+- Revisar la configuración de los GRC y verificar cálculos (normalización de las constelaciones, SNR y receptor).
 - Apoyar la redacción y la organización de los documentos del repositorio.
 
 La simulación, las pruebas y las capturas las realizó el grupo en GNU Radio. Todo el contenido fue revisado y validado por los integrantes.
