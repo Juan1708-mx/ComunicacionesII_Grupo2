@@ -109,6 +109,10 @@ ComunicacionesII_Grupo2/
     ├── figuras/  capturas/                 # figuras del informe y 34 capturas
     ├── Informe_fase_2.pdf
     └── README.md
+└── Fase 3/                                  # Fase3
+    ├── GRC/                                # Transmisor y receptor mejorado
+    ├── Figuras/                # figuras del informe
+    ├── Informe_fase_3.pdf
 ```
 
 ## Fase 2: transmisor con RRC y receptor
