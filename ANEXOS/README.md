@@ -3,7 +3,7 @@
 ### 1. Montaje Físico y Enlace con Antenas
 En la siguiente captura se observa la disposición física de los equipos **HackRF One** operando a $f_c = 960\text{ MHz}$ ($2\text{ MSps}$) durante las pruebas de transmisión por aire:
 
-![Montaje físico HackRF One](anexos/montaje_fisico_hackrf.jpg)
+![Montaje físico HackRF One]
 
 ### 2. Espectro RF y Constelación Recuperada
 | Escenario Sin Ruido (Alta SNR) | Escenario con Ruido Aditivo |
